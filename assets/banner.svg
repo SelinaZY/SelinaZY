@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Vincy — Small tools. Thoughtful solutions.</title>
+  <desc id="desc">A warm ivory banner with muted purple accents and three connected cards representing an idea, a tool, and sharing.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#E4DED9"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="#F8F5F0"/>
+  <rect x="696" y="24" width="480" height="272" rx="20" fill="url(#dots)"/>
+  <rect x="56" y="48" width="34" height="5" rx="2.5" fill="#8872A8"/>
+  <text x="56" y="90" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#79668E">IDEAS INTO USEFUL THINGS</text>
+  <text x="52" y="169" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-3" fill="#302B38">Vincy<tspan fill="#8872A8">.</tspan></text>
+  <text x="56" y="215" font-family="Arial, sans-serif" font-size="23" fill="#625B69">Small tools. Thoughtful solutions.</text>
+  <text x="56" y="272" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.5" fill="#79668E">AI WORKFLOWS  /  USEFUL TOOLS  /  OPEN SOURCE</text>
+  <path d="M805 158 H855 M989 158 H1036" stroke="#B9A9CD" stroke-width="2" stroke-dasharray="5 6"/>
+  <rect x="704" y="106" width="102" height="104" rx="20" fill="#EFE8F5" stroke="#D9CCE6"/>
+  <path d="M745 158 C725 143 739 122 754 122 C774 122 782 144 765 158 L765 168 H745 Z M747 177 H763" fill="none" stroke="#8872A8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="852" y="87" width="136" height="142" rx="22" fill="#8872A8"/>
+  <path d="M901 136 L883 154 L901 172 M939 136 L957 154 L939 172 M928 128 L912 181" fill="none" stroke="#FFFDF9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1034" y="106" width="102" height="104" rx="20" fill="#EFE8F5" stroke="#D9CCE6"/>
+  <path d="M1073 161 L1097 144 M1073 161 L1097 179" fill="none" stroke="#8872A8" stroke-width="3"/>
+  <g fill="#F8F5F0" stroke="#8872A8" stroke-width="3"><circle cx="1069" cy="161" r="7"/><circle cx="1102" cy="140" r="7"/><circle cx="1102" cy="182" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="11" letter-spacing="2" text-anchor="middle" fill="#79668E"><text x="755" y="254">IDEA</text><text x="920" y="254">BUILD</text><text x="1085" y="254">SHARE</text></g>
+</svg>
